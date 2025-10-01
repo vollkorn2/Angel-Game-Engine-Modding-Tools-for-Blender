@@ -20,6 +20,6 @@ ToDo:         Read Text File (.txt) to Import Flags and Garbage from Tex2Png (Po
 Other Important Tools and Documentations are made by:
 Dummiesman   Github:  https://github.com/Dummiesman
 ProjectAGE   Website: https://projectage.rf.gd/?tools,21&i=2
-SpecDec      YouTube: https://youtube.com/@specdec?si=p_PRxZfttQ9-n3jA   Discord: https://discord.com/invite/FseYAjXpTT
+SpecDec      YouTube: http://youtube.com/c/SpecDec?sub_confirmation=1   Discord: https://discord.com/invite/FseYAjXpTT
 
 Additional Note: I don't plan to contribute to these Tools in near Future but I will definitley Update and work on it from time to time
