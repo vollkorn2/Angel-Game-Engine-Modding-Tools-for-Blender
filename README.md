@@ -18,8 +18,13 @@ Converts all PNGs to Textures (.tex/.xtex) / Note: Experimental! Only Red Dead R
 EdnessBlenderHelper_Dave:   
 Helper Script to run EdnessP dave.py easily inside of Blender without Installing Python (Build and Extract .dat/.zip Files)
 
+
 Other Important Tools and Documentations are made by:
+
 Dummiesman   Github:  https://github.com/Dummiesman
+
 ProjectAGE   Website: https://projectage.rf.gd/?tools,21&i=2
+
 SpecDec      YouTube: http://youtube.com/c/SpecDec?sub_confirmation=1   Discord: https://discord.com/invite/FseYAjXpTT
+
 EdnessP      Github:  https://github.com/EdnessP
