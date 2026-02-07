@@ -6,24 +6,20 @@ Open the Tools in Text Editor inside of Blender.
 You need to set up needed Variables on Top of each Script.
 
 Tools Included:
-Mod2Blender:      Imports 3D Models (.mod/.xmod) to Blender / Note: not as far developed as Dummiesman AngelStudiosBlenderAddon
-ToDo:             Compare to Dummiesman and Overhaul or Delete this Script depending on what makes more sense
+Mod2Blender:      
+Imports 3D Models (.mod/.xmod) to Blender / Note: not as far developed as Dummiesman AngelStudiosBlenderAddon
 
-Tex2Png:          Converts all Textures (.tex/.xtex) to PNG / Note: Games like Spy Hunter or Transworld Surf are NOT tested and could have TexTypes that are not Supported by Tex2Png
-ToDo:             Compare Flags and Garbage
+Tex2Png:          
+Converts all Textures (.tex/.xtex) to PNG / Note: Games like Spy Hunter or Transworld Surf are NOT tested and could have TexTypes that are not Supported by Tex2Png
 
-Png2Tex:          Converts all PNGs to Textures (.tex/.xtex) / Note: Experimental! Only Red Dead Revolver is Tested and Loading Levels don't work at all!
-ToDo:             Read Text File (.txt) to Import Flags and Garbage from Tex2Png (Possibly fixes Game crash for Modded Textures)
-                  Test out different Flags and Garbage
+Png2Tex:          
+Converts all PNGs to Textures (.tex/.xtex) / Note: Experimental! Only Red Dead Revolver is Tested and Loading Levels don't work at all!
 
-CompileDat_DAVE   Pack Files into .dat File in DAVE Format (Uncompressed) 
-ToDo:             Add Support for Subfolders
-                  Figure out how to make compressed Files to be accepted by the Game (zlib.compress(FileRead, level = 6, wbits = -15))
-                  Figure out how to read/write Compressed FileNames in Dave Format
+EdnessBlenderHelper_Dave:   
+Helper Script to run EdnessP dave.py easily inside of Blender without Installing Python (Build and Extract .dat/.zip Files)
 
 Other Important Tools and Documentations are made by:
 Dummiesman   Github:  https://github.com/Dummiesman
 ProjectAGE   Website: https://projectage.rf.gd/?tools,21&i=2
 SpecDec      YouTube: http://youtube.com/c/SpecDec?sub_confirmation=1   Discord: https://discord.com/invite/FseYAjXpTT
-
-Additional Note: I don't plan to contribute to these Tools in near Future but I will definitley Update and work on it from time to time
+EdnessP      Github:  https://github.com/EdnessP
